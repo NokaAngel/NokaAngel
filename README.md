@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🔭 I’m currently working on some cool FiveM server's using QBCore.
+- 💬 Ask me about Anything
+- 📫 How to reach me: Discord, PeEcEeChIP#0001
+- ⚡ Fun fact: I like to make projects.
 
 <!--
 **PeEcEeChIP/peeceechip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
