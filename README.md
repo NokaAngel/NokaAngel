@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on some cool FiveM server's using QBCore.
 - 💬 Ask me about Anything
-- 📫 How to reach me: Discord, PeEcEeChIP#0001
+- 📫 How to reach me: Discord, TheRaccoon#0001
 - ⚡ Fun fact: I like to make projects.
 
 <!--
