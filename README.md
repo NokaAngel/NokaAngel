@@ -1,8 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on some cool FiveM server's using QBCore.
-- 💬 Ask me about Anything
-- 📫 How to reach me: Discord, TheRaccoon#0001
-- ⚡ Fun fact: I like to make projects.
+I am PeEcEeChIP, also known as TheRaccoon. I like to make project's for Roblox & FiveM, go ahead and check out my recent project I have started for FiveM named [Raccoon-Whitelist](https://github.com/PeEcEeChIP/Raccoon-Whitelist).
 <img src="https://profile-counter.glitch.me/PeEcEeChIP/count.svg" />
 
 <p float="left">
