@@ -1,5 +1,7 @@
-### Hi there 👋
-I am PeEcEeChIP, also known as TheRaccoon. I like to make project's for Roblox & FiveM, go ahead and check out my recent project I have started for FiveM named [Raccoon-Whitelist](https://github.com/PeEcEeChIP/Raccoon-Whitelist).
+### Hello! 👋
+
+I am PeEcEeChIP, also known as TheRaccoon in the FiveM community. I developing QBCore, & vMenu based server's and improving script's for optimization, and fast speed's. If you have any question's feel free to reach out to me at anytime.
+
 <img src="https://profile-counter.glitch.me/PeEcEeChIP/count.svg" />
 
 <p float="left">
