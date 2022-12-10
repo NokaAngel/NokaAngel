@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I am PeEcEeChIP, also known as TheRaccoon in the FiveM community. I developing QBCore, & vMenu based server's and improving script's for optimization, and fast speed's. If you have any question's feel free to reach out to me at anytime.
+I am PeEcEeChIP, also known as TheRaccoon in the FiveM community. I enjoy developing QBCore, & vMenu based server's and improving script's for optimization, and fast speed's. If you have any question's feel free to reach out to me at anytime.
 
 <img src="https://profile-counter.glitch.me/PeEcEeChIP/count.svg" />
 
