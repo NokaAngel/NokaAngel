@@ -1,8 +1,10 @@
 ### Hello! 👋
 
-I am PeEcEeChIP, also known as TheRaccoon in the FiveM community. I enjoy developing QBCore, & vMenu based server's and improving script's for optimization, and fast speed's. If you have any question's feel free to reach out to me at anytime.
+👋 Hello, I'm DesirdxV1to, but you might know me as PeEcEeChIP or TheRaccoon in the FiveM community.
 
-**I have officially ended any mod development for FiveM, as I've lost passion for it and just tired of FiveM in general honestly.**
+🎮 I have a penchant for developing QBCore & vMenu-based servers. My passion lies in refining scripts for optimal performance and blazing speeds.
+
+🔧 Whether it's a question, collaboration, or just a chat about FiveM, don't hesitate to reach out. Always here to help and connect!
 
 <img src="https://profile-counter.glitch.me/DesiredxV1to/count.svg" />
 
