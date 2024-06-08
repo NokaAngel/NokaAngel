@@ -14,8 +14,8 @@
 </p>
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; position: fixed; top: 40vh; left: 20vw; object-fit: cover; background-size: cover!important; width: 10vw; height: 10vw; animation: Toast--spinner infinite linear 60s, Overlay--motion-slideInLeft infinite alternate 1.06s, Overlay--motion-slideUp infinite alternate 2.2s; background: url('https://imgs.search.brave.com/-vPwWKFB8JmVJsJ1kzo4AiNki0BYKq5NAfNO7uHOdD8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/VlFHQW40TXprNFVB/QUFBai9nYXRvLXRy/b21wZXRhLmdpZg.gif');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; position: fixed; top: 40vh; left: 20vw; object-fit: cover; background-size: cover!important; width: 10vw; height: 10vw; animation: Toast--spinner infinite linear 60s, Overlay--motion-slideInLeft infinite alternate 1.06s, Overlay--motion-slideUp infinite alternate 2.2s; background: url('https://github.com/DesiredxV1to/DesiredxV1to/blob/main/assets/gato-trompeta.gif?raw=true');]{x0000}$}
 ```
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -99; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover!important; width: 100vw; opacity: 0.75; background: url('https://wallpapercave.com/wp/wp6528532.png');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -99; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover!important; width: 100vw; opacity: 0.75; background: url('https://raw.githubusercontent.com/DesiredxV1to/DesiredxV1to/main/assets/wp6528532.png');]{x0000}$}
